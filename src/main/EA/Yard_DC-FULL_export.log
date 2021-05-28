@@ -1,0 +1,584 @@
+Exporting package to 'C:\svn\Model\Trunk\Yard_DC\src\main\EA\Yard_DC-FULL.xmi'
+Retrieving data for export: diagram elements
+Retrieving data for export: links
+Retrieving data for export: constraints
+Retrieving data for export: attribute tagged values
+Retrieving data for export: operation tagged values
+Retrieving data for export: operation parameter tagged values
+Retrieving data for export: connector tagged values
+Completed data retrieval
+Pre-processing export tree...
+Completed pre-processing
+Processing package: Yard_DC
+Diagram: Test
+Processing package: Elements
+Diagram: 01. Feature with Name.Language Code
+Diagram: 04. Country.ISO Country Code Information
+Diagram: 04. Country.Country Name
+Diagram: 04. Administrative Boundary.Administrative Boundary Type
+Diagram: 02. Feature with Route Number.Route Number Information
+Diagram: 02. Standard Road Edge.Net2ClassVerifiedSpeedRestriction
+Diagram: 02. Standard Road Edge.MaximumSpeedRestriction
+Diagram: 04. Country.Unit of Measurement
+Diagram: 01. Anchor Point.Standard Address
+Diagram: 01. Anchor Point.Address Point Type
+Diagram: 22. Street Name.Allowed character
+Diagram: 22. Locality Name.Allowed Character
+Diagram: 22. Center of Settlement.Allowed Character
+Diagram: 22. Frontier Crossing.Allowed Character
+Diagram: 22. Service Name.Allowed Character
+Diagram: 22. Service Brand Name.Allowed Character
+Diagram: 22. Generic Feature Name.Allowed Character
+Diagram: 22. Signpost.Allowed Character
+Diagram: 22. Feature with Name.Bad Name
+Diagram: 07. Index Area.Hierarchy
+Diagram: 04. Country.Driving Side
+Diagram: 02. Standard Road Edge.Maximum Dimensions
+Diagram: 02. Standard Road Edge.Speed Restriction Preset
+Diagram: 04. Country.Subdivision in levels of Administrative Areas
+Diagram: 03. SignPost.Sign Color Information
+Diagram: 04. Order 1.Order 1 Code Information
+Diagram: 01. Feature with Telephone Number. Telephone Number syntax
+Diagram: 10. Frontier Crossing.Passport Control
+Diagram: 04. Administrative Area.Administrative Code Structure
+Diagram: 14. Standard Road Edge.Absolute Height
+Diagram: 01. Name.Name Components
+Diagram: 02. Freeway Intersection. Name Component
+Diagram: 02. Feature with Route Number.Route Number Structure
+Diagram: 02. Network Element.Correlation FRC and Route Number Prefix 
+Diagram: 19. Country.Allowed Feature_Attribute
+Diagram: 19. Country.Allowed Feature_Attribute_Value
+Diagram: 01. Feature with Postal Code Information. Postal Code syntax
+Diagram: 01. Country.Notation Alphabet
+Diagram: 01. Country.Airport Code
+Diagram: 01. Notation Alphabet.Brand Name
+Diagram: 22. Notation Alphabet.Allowed Character
+Diagram: 22. Notation Alphabet.Allowed House Number Character
+Diagram: 22. Feature with Name.Generic Name
+Diagram: Overview Diagram
+Diagram: 02. Country.Address Uniqueness
+Diagram: 01. Name.Normalized prefix/suffix
+Diagram: Country inherits from
+Diagram: Order 1 Area has Parent Country
+Diagram: Language inherits from
+Diagram: 01. Country. Mandatory Exonym Language
+Diagram: 01. Country. Optional Exonym Language
+Diagram: 22. Route Number.Allowed character
+Diagram: 01. Address Scheme.Components
+Diagram: 01. Country.Address Scheme
+Diagram: LanguageNotation inherits from
+Diagram: 02. Country.TMC Country Code
+Diagram: 02. Country. TMC Location Table Number
+Diagram: 02. Country.Attributes_ Features_Address Uniqueness
+Diagram: 04. Administrative Area.Official Code Structure
+Diagram: 23. Country.Dataset
+Diagram: 07. Indexing Scheme.Components
+Diagram: 07. Country.Indexing Scheme
+Diagram: 22. Access Gateway.Bad Name
+Diagram: 22. Capitalization.Allowed Stings
+Diagram: 03. Exit Number on Sign.Exit Number syntax
+Diagram: 01. LanguageNotation.ISO Codes
+Diagram: 19. Country. Blocked Feature_Attribute_Value
+Diagram: 02. House Number.House Number Structure
+Diagram: 01. Notation Alphabet.ISO Script Code
+Diagram: 07. Census District.Attributes
+Diagram: 22. Service Name.Suspicious pattern
+Diagram: 22. Service Name.Not Allowed Last Character
+Diagram: 22. Center of Settlement.Not Allowed Last Character
+Diagram: 22. Service Name.Legal Character
+Diagram: 01. Language.Notation Alphabet
+Diagram: 24. Geopolitical View.Allowed in
+Diagram: 01. Name.Tokenized
+Diagram: 22. Frontier Crossing.Suspicious Character
+Diagram: 22. Service Name.Suspicious Character
+Diagram: 01. Feature with License Plate Abbreviation Info.License Plate Abbreviation Info syntax
+Diagram: 04. Country.Unit of Currency
+Diagram: 04. Country.Unit of Vehicle Height
+Diagram: 04. Country.Unit of Vehicle Width
+Diagram: 04. Country.Unit of Vehicle Length
+Diagram: 04. Country.Unit of Vehicle Weight
+Diagram: 10. Country. Pricing Info
+Diagram: 10. Vehicle Category Identifier.Vehicle Type
+Diagram: 10. Vehicle Category Identifier.Engine Displacement Info
+Diagram: 10. Vehicle Category Identifier.Extreme Axle Spacing Info
+Diagram: 10. Vehicle Category Identifier.Number of Axles Info
+Diagram: 10. Vehicle Category Identifier.Number of Wheels Info
+Diagram: 10. Vehicle Category Identifier.Vehicle Height Info
+Diagram: 10. Vehicle Category Identifier.Vehicle Length Info
+Diagram: 10. Vehicle Category Identifier.Vehicle Weight Info
+Diagram: 10. Vehicle Category Identifier.Vehicle Width Info
+Diagram: 10. Vehicle Category Identifier.Wheel Spacing Info
+Diagram: 01. Address Component Type.Address Component Type syntax
+Diagram: 10. Country.Vehicle Category Identifier
+Diagram: 22. Address Component Type.Allowed Character
+Diagram: 01. Country.Postal Code Information
+Diagram: 10. Vehicle Category Identifier.Number of Trailers Info
+Diagram: 10. Vehicle Category Identifier.Trailer Length Info
+Diagram: 10. Vehicle Category Identifier.Number of Axles Associated with Trailer Info
+Diagram: 10. Vehicle Category Identifier.Trailer Convertor Info
+Diagram: 10. Language.Payment Method Information
+Diagram: 24. Geopolitical Country.Country
+Diagram: 01. Notation Alphabet.Tokenized
+Diagram: 02. Standard Road Edge.new Maximum Dimensions
+Diagram: 22. Address Component Type.Suspicious pattern
+Diagram: 01. Country.MN-C product
+Diagram: 01. World.Country features
+Diagram: 01. World.CityCenter and related area features
+Diagram: 01. Country.Abbreviation
+Diagram: 01.Language.Main Notation Alphabet
+Diagram: 10. Premium Car Brand
+Diagram: 24. Geopolitical Country.located in Country
+Diagram: 24. Country.Geopolitical Hierarchy
+Diagram: 22. Notation Alphabet.Allowed Ranges
+Diagram: 24. Country.CityCenters
+Diagram: 24. Country.Administrative Boundaries
+Diagram: 24. Country.Branch UUID
+Diagram: 24. Country.Superfluous CityCenters
+Diagram: 24. Country.Administrative Boundary Name
+Diagram: 24. Country.Unallowed Languages
+Diagram: 19. Order 1.Allowed Feature_Attribute_Value
+Diagram: 22. Frontier Crossing.Not Allowed Last Character
+Diagram: 22. Generic Feature Name.Not Allowed Last Character
+Diagram: 22. Locality Name.Not Allowed Last Character
+Diagram: 22. Service Brand Name.Not Allowed Last Character
+Diagram: 22. Signpost.Not Allowed Last Character
+Diagram: 22. Street Name.Not Allowed Last Character
+Diagram: 24. Country.Geopolitical Info
+Diagram: 24. Geopolitical Country.surface
+Diagram: 02. Country.Additional Extended Route Name
+Diagram: 24. Geopolitical Country.Square Kilometer Area
+Diagram: 01. Country.Unwanted Exonyms
+Diagram: 16. Country.Generic Features and Associations
+Diagram: 16. Country. Generic Attributes
+Diagram: 22. Country. Not Allowed POI
+Diagram: 24. Country.GeopolInfo on Names
+Element:0: Address Component Type has Suspicious Pattern
+Element:1: Administrative Boundary
+Element:2: Branch
+Element:3: Brand Name of Feature Type
+Element:4: City Center
+Element:5: CityCenter and related area features
+Element:6: Class4
+Element:7: Class5
+Element:8: Class6
+Element:9: Composite Address Component Type Suspicious Pattern
+Element:10: Composite Allowed Administrative Boundaries having Name per Geopolitical View
+Element:11: Composite Allowed Administrative Boundaries per Geopolitical View
+Element:12: Composite Allowed Character Ranges
+Element:13: Composite Allowed Geopolitical Hierarchy per Geopolitical View
+Element:14: Composite Allowed Square Kilometer Area per Geopolitical View
+Element:15: Composite Correlation between Route Number and Additional Extended Route Name
+Element:16: Composite Information on creating MN-C products
+Element:17: Composite Main Notation Alphabet
+Element:18: Composite Mandatory City Centers per Geopolitical View
+Element:19: Composite Mandatory Exonyms for City Centers and related area features
+Element:20: Composite Mandatory Exonyms for Country features
+Element:21: Composite Not Allowed Language Code to be displayed per Geopolitical View
+Element:22: Composite Not Allowed POI
+Element:23: Composite Order 1 Allowed Feature_Attribute_Value
+Element:24: Composite Premium Car Brand
+Element:25: Composite Superfluous City Center per Geopolitical View
+Element:26: Composite Unwanted Exonyms
+Element:27: Composite allowed Generic Attributes
+Element:28: Composite allowed Generic Features and Associations
+Element:29: Composite allowed Geopolitical Info on Names per Geopolitical View
+Element:30: Composite allowed Geopolitical Info per Geopolitical View
+Element:31: Composite mandatory Abbreviation
+Element:32: Country Feature
+Element:33: Country and Separate Baseline Country
+Element:34: Country features
+Element:35: Country has Information on creating MN-C products
+Element:36: Country has Not Allowed POI
+Element:37: Country has Premium Car Brand
+Element:38: Country has Unwanted Exonyms
+Element:39: Country has allowed Administrative Boundaries having Name per Geopolitical View
+Element:40: Country has allowed Administrative Boundaries per Geopolitical View
+Element:41: Country has allowed Branch UUID
+Element:42: Country has allowed Generic Attributes
+Element:43: Country has allowed Generic Features and Associations
+Element:44: Country has allowed Geopolitical Hierarchy per Geopolitical View
+Element:45: Country has allowed Geopolitical Info on Names per Geopolitical View
+Element:46: Country has allowed Geopolitical Info per Geopolitical View
+Element:47: Country has allowed correlation between Route Number and Additional Extended Route Name
+Element:48: Country has mandatory City Centers per Geopolitical View
+Element:49: Country has not allowed Language Code to be displayed per Geopolitical View
+Element:50: Country has superfluous City Center per Geopolitical View
+Element:51: Feature With Generic Attribute Or Association
+Element:52: Frontier Crossing Name has Not Allowed Last Character
+Element:53: Generic Attribute or Association
+Element:54: Generic Feature Name has Not Allowed Last Character
+Element:55: Geopolitical Country has Square Kilometer Area Allowed
+Element:56: Geopolitical Country has allowed Square Kilometer Area per Geopolitical View
+Element:57: Geopolitical Country is located in allowed Country
+Element:58: Geopolitical Hierarchy
+Element:59: Geopolitical Info
+Element:60: Language has allowed Main Notation Alphabet
+Element:61: Locality Name has Not Allowed Last Character
+Element:62: Main Notation Alphabet
+Element:63: Name Component
+Element:64: Name Component has mandatory Abbreviation
+Element:65: Notation Alphabet can be tokenized
+Element:66: Notation Alphabet has allowed Character Ranges
+Element:67: Order 1 Area has allowed feature or attribute or value
+Element:68: Separate Baseline Country
+Element:69: Service
+Element:70: Service Brand Name has Not Allowed Last Character
+Element:71: Signpost Destination Info has Not Allowed Last Character
+Element:72: Standard Road Edge or Ferry Edge has allowed Maximum Extreme Axle Length Allowed Info
+Element:73: Standard Road Edge or Ferry Edge has allowed Maximum Kingpin To Last Axle Allowed Info
+Element:74: Standard Road Edge or Ferry Edge has allowed Maximum Kingpin To Middle Of Last Tandem Allowed Info
+Element:75: Standard Road Edge or Ferry Edge has allowed Maximum Tandem Axle Weight Allowed Info
+Element:76: Standard Road Edge or Ferry Edge has allowed Maximum Trailer Length Allowed Info
+Element:77: Standard Road Edge or Ferry Edge has allowed Maximum Tridem Axle Weight Allowed Info
+Element:78: Street Name has Not Allowed Last Character
+Element:79: World has Mandatory Exonyms for City Centers and related area features
+Element:80: World has Mandatory Exonyms for Country features
+Element:81: Address Component Type has allowed Address Component Type syntax
+Element:82: Address Component Type has allowed Character
+Element:83: Address Component Type syntax of Address Component Type
+Element:84: Census Feature
+Element:85: Census Feature has mandatory attributes
+Element:86: Center of Settlement Name has Not Allowed Last Character
+Element:87: Class2
+Element:88: Class3
+Element:89: Composite Address Component Type Character
+Element:90: Composite Address Component Type syntax
+Element:91: Composite Census Feature attributes
+Element:92: Composite Engine Displacement Info
+Element:93: Composite Extreme Axle Spacing Info
+Element:94: Composite Information on creating MN Post product
+Element:95: Composite Number of Axles Associated with Trailer Info
+Element:96: Composite Number of Axles Info
+Element:97: Composite Number of Trailers Info
+Element:98: Composite Number of Wheels Info
+Element:99: Composite Payment Method Information details
+Element:100: Composite Trailer Convertor Info
+Element:101: Composite Trailer Length Info
+Element:102: Composite Vehicle Height Info
+Element:103: Composite Vehicle Length Info
+Element:104: Composite Vehicle Weight Info
+Element:105: Composite Vehicle Width Info
+Element:106: Composite Wheel Spacing Info
+Element:107: Composite allowed same attributes as Country
+Element:108: Country has Information on creating MN Post product
+Element:109: Country has Unit of Currency
+Element:110: Country has Unit of Vehicle Height
+Element:111: Country has Unit of Vehicle Length
+Element:112: Country has Unit of Vehicle Weight
+Element:113: Country has Unit of Vehicle Width
+Element:114: Country has allowed Minimum and Maximum Pricing Info
+Element:115: Country has allowed Vehicle Category Identifier
+Element:116: Engine Displacement Info of Vehicle Category Identifier
+Element:117: Extreme Axle Spacing Info of Vehicle Category Identifier
+Element:118: Feature with License Plate Abbreviation Info has allowed License Plate Abbreviation Info syntax
+Element:119: Feature with Payment Method Information has allowed Payment Method Information details
+Element:120: Frontier Crossing Name has Suspicious Character
+Element:121: Geopolitical Country
+Element:122: Geopolitical Country has allowed same attributes as Country
+Element:123: Geopolitical View
+Element:124: Geopolitical View is allowed in
+Element:125: Language has allowed Notation Alphabet
+Element:126: License Plate Abbreviation Info syntax of feature with License Plate Abbreviation Info
+Element:127: Name Text of Address Component Type
+Element:128: Notation Alphabet has allowed ISO Script Code
+Element:129: Number of Axles Associated with Trailer Info of Vehicle Category Identifier
+Element:130: Number of Axles Info of Vehicle Category Identifier
+Element:131: Number of Trailers Info of Vehicle Category Identifier
+Element:132: Number of Wheels Info of Vehicle Category Identifier
+Element:133: Payment Method Detail of Feature with Payment Method Information
+Element:134: Postal Code Info
+Element:135: Postal Code Info of Country
+Element:136: Postal Code Info of Country
+Element:137: Pricing Info of Country
+Element:138: Service Name has Legal Character
+Element:139: Service Name has Not Allowed Last Character
+Element:140: Service Name has Suspicious Character
+Element:141: Service Name has Suspicious Pattern
+Element:142: Tokenized Name
+Element:143: Tokenized is allowed for
+Element:144: Trailer Convertor Info of Vehicle Category Identifier
+Element:145: Trailer Length Info of Vehicle Category Identifier
+Element:146: Unit of Currency of Country
+Element:147: Unit of Vehicle Height of Country
+Element:148: Unit of Vehicle Length of Country
+Element:149: Unit of Vehicle Weight of Country
+Element:150: Unit of Vehicle Width of Country
+Element:151: Vehicle Category Identifier
+Element:152: Vehicle Category Identifier has Engine Displacement Info
+Element:153: Vehicle Category Identifier has Extreme Axle Spacing Info
+Element:154: Vehicle Category Identifier has Number of Axles Associated with Trailer Info
+Element:155: Vehicle Category Identifier has Number of Axles Info
+Element:156: Vehicle Category Identifier has Number of Trailers Info
+Element:157: Vehicle Category Identifier has Number of Wheels Info
+Element:158: Vehicle Category Identifier has Trailer Convertor Info
+Element:159: Vehicle Category Identifier has Trailer Length Info
+Element:160: Vehicle Category Identifier has Vehicle Height Info
+Element:161: Vehicle Category Identifier has Vehicle Length Info
+Element:162: Vehicle Category Identifier has Vehicle Type
+Element:163: Vehicle Category Identifier has Vehicle Weight Info
+Element:164: Vehicle Category Identifier has Vehicle Width Info
+Element:165: Vehicle Category Identifier has Wheel Spacing Info
+Element:166: Vehicle Category Identifier of Vehicle Category Info
+Element:167: Vehicle Height Info of Vehicle Category Identifier
+Element:168: Vehicle Length Info of Vehicle Category Identifier
+Element:169: Vehicle Type of Vehicle Category Identifier
+Element:170: Vehicle Weight Info of Vehicle Category Identifier
+Element:171: Vehicle Width Info of Vehicle Category Identifier
+Element:172: Wheel Spacing Info of Vehicle Category Identifier
+Element:173: Class1
+Element:174: Composite Allowed Locked Feature_Attribute_Value
+Element:175: Composite ISO Codes
+Element:176: Country has allowed Locked Feature or Attribute or Value
+Element:177: Feature with House Number Information has allowed House Number Structure
+Element:178: LanguageNotation has allowed ISO Language Code and ISO Script Code
+Element:179: Locked Feature_Attribute_Value
+Element:180: Name Transliteration Set
+Element:181: Access Gateway has invalid Name Part
+Element:182: Address Scheme
+Element:183: Address Scheme has Components
+Element:184: Address Uniqueness feature or attribute
+Element:185: Administrative Area has allowed Official Code Structure
+Element:186: Anchor Point has valid Address Scheme
+Element:187: Composite Address Scheme Composition
+Element:188: Composite Address Scheme Description
+Element:189: Composite Allowed Language Code
+Element:190: Composite Capitalization Strings
+Element:191: Composite Indexing Scheme Composition
+Element:192: Composite Official Code Structure
+Element:193: Composite Regional Mandatory Exonym Language
+Element:194: Composite Regional Optional Exonym Language
+Element:195: Composite TMC Location Table Number
+Element:196: Country has Attributes or Features used for Address Uniqueness
+Element:197: Country has Regional Mandatory Exonym Language
+Element:198: Country has Regional Optional Exonym Language
+Element:199: Country has allowed Datasets
+Element:200: Country has allowed Indexing Scheme
+Element:201: Country has allowed TMC Country Code
+Element:202: Country has allowed TMC Location Table Number
+Element:203: Dataset of a Country
+Element:204: Exit Number on Sign has allowed Exit Number syntax
+Element:205: Exit Number syntax of Exit Number on Sign
+Element:206: Exonym Language
+Element:207: Indexing Scheme
+Element:208: Indexing Scheme has Components
+Element:209: LanguageNotation
+Element:210: LanguageNotation Attribute
+Element:211: LanguageNotation inherits from
+Element:212: Names of Access Gateway
+Element:213: Official Code of an Administrative Area
+Element:214: Place within Place Relationship
+Element:215: Route Number has allowed Character
+Element:216: Strings to skip Capitalization Check
+Element:217: TMC Location Reference of a TMC Point Location
+Element:218: Country Attribute
+Element:219: Language Attribute
+Element:220: Language inherits from LanguageNotation
+Element:221: Composite Normalized Name
+Element:222: Country inherits from
+Element:223: List
+Element:224: Name has allowed normalized Name Component Type Prefix or Suffix
+Element:225: Order 1 Area has Parent Country
+Element:226: Scope List
+Element:227: Country has allowed Features used for Address Uniqueness
+Element:228: Address Uniqueness feature
+Element:229: Feature with Name has not allowed Generic Name
+Element:230: Multi Geometry Feature
+Element:231: Name has allowed Name Component Description
+Element:232: Tree
+Element:233: Airport Code of Country
+Element:234: Allowed Feature_Attribute
+Element:235: Allowed Feature_Attribute_Value
+Element:236: Composite Airport Code
+Element:237: Composite Allowed Feature_Attribute
+Element:238: Composite Allowed Feature_Attribute_Value
+Element:239: Composite Brand Name Information
+Element:240: Composite Postal Code syntax
+Element:241: Country has House Number Range Notation Alphabet
+Element:242: Country has allowed Airport Code
+Element:243: Country has allowed Feature or Attribute
+Element:244: Country has allowed feature or attribute or value
+Element:245: Feature with Postal Code Information has allowed Postal Code syntax
+Element:246: House Number
+Element:247: Notation Alphabet
+Element:248: Notation Alphabet has allowed Character
+Element:249: Notation Alphabet has allowed Composite Brand Name Information
+Element:250: Notation Alphabet has allowed House Number Character
+Element:251: Notation Alphabet has not allowed First Character
+Element:252: Notation Alphabet of Country
+Element:253: Postal Code syntax of feature with Postal Code Information
+Element:254: Composite Correlation between Route Number Prefix and Functional Road Class
+Element:255: Composite Name Component Exit Number
+Element:256: Feature with Route Number has allowed Route Number Structure
+Element:257: Freeway Intersection has allowed Name Component Type
+Element:258: Names of Freeway Intersections
+Element:259: Network Element has allowed correlation between Route Number Prefix and Functional Road Class
+Element:260: Route Number Information of Network Element
+Element:261: Administrative Area has allowed Administrative Code Structure
+Element:262: Administrative Code of an Administrative Area
+Element:263: Composite Administrative Code Structure
+Element:264: Composite Name Component Description
+Element:265: Height of Standard Road Edge
+Element:266: Name
+Element:267: Standard Road Edge has allowed Absolute Height
+Element:268: Anchor Point has Address Component Description
+Element:269: Anchor Point has valid Address
+Element:270: Composite Address Component Description
+Element:271: Composite Address Format Component
+Element:272: Composite Administrative Area Translation
+Element:273: Composite Passport Control Information
+Element:274: Composite Sign Color Information
+Element:275: Composite SignBoard Color Information
+Element:276: Composite Speed Restriction Preset
+Element:277: Composite Translation
+Element:278: Country has Driving Side
+Element:279: Country has ISO Country Code
+Element:280: Country has allowed translations of Administrative Area
+Element:281: Driving Side of Country
+Element:282: Feature with Telephone Number has allowed Telephone Number syntax
+Element:283: Frontier Crossing has allowed Passport Control Information
+Element:284: ISO Country Code
+Element:285: Maximum Dimensions of Standard Road Edge and Ferry Edge
+Element:286: Order 1 Area has Order 1 Area Code
+Element:287: Passport Control of Frontier Crossing
+Element:288: Signpost Information has allowed Sign Color Information
+Element:289: Standard Road Edge has Speed Restriction Preset
+Element:290: Standard Road Edge or Ferry Edge has Maximum Total Height Allowed
+Element:291: Standard Road Edge or Ferry Edge has Maximum Total Length Allowed
+Element:292: Standard Road Edge or Ferry Edge has Maximum Total Weight Allowed
+Element:293: Standard Road Edge or Ferry Edge has Maximum Total Weight per Axle Allowed
+Element:294: Standard Road Edge or Ferry Edge has Maximum Total Width Allowed
+Element:295: Telephone Number syntax of feature with Telephone Number
+Element:296: Administrative Area
+Element:297: Administrative Boundary Type of Administrative Boundary
+Element:298: Administrative Boundary has allowed Administrative Boundary Type
+Element:299: Anchor Point Type of Anchor Point
+Element:300: Anchor Point has allowed Address Point Type
+Element:301: Brand Name of Service
+Element:302: Center of Settlement Name has allowed Character
+Element:303: Center of Settlement Name has not allowed First Character
+Element:304: Composite Country Name
+Element:305: Composite Indexing Hierarchy
+Element:306: Composite Route Number Type
+Element:307: Country
+Element:308: Country has Standard Name
+Element:309: Country has Unit of Measurement
+Element:310: Destination Info of Signpost
+Element:311: Feature with Name has allowed Language Code
+Element:312: Feature with Route Number has allowed Route Number Type
+Element:313: Frontier Crossing Name has allowed Character
+Element:314: Frontier Crossing Name has not allowed First Character
+Element:315: Generic Feature Name has allowed Character
+Element:316: Generic Feature Name has not allowed First Character
+Element:317: House Number of Address of Anchor Point
+Element:318: Order 1 Code
+Element:319: Index Area
+Element:320: Index Area is part of Hierarchy
+Element:321: Language
+Element:322: Language Code of Names
+Element:323: Data List
+Element:324: Locality Name has allowed Character
+Element:325: Locality Name has not allowed First Character
+Element:326: Names of Center of Settlement
+Element:327: Names of Frontier Crossing
+Element:328: Names of Generic Feature
+Element:329: Names of Localities
+Element:330: Names of Services
+Element:331: Order 1 Area
+Element:332: Order 1 Area and Country
+Element:333: Reference
+Element:334: Referenced Info
+Element:335: Route Number Information of Feature with Route Number
+Element:336: Scope
+Element:337: Service Brand Name has allowed Character
+Element:338: Service Brand Name has not allowed First Character
+Element:339: Service Name has allowed Character
+Element:340: Service Name has not allowed First Character
+Element:341: Signpost Destination Info has allowed Character
+Element:342: Signpost Destination Info has not allowed First Character
+Element:343: Speed Restrictions of Standard Road Edge
+Element:344: Standard Address of Anchor Point
+Element:345: Standard Name of Country
+Element:346: Standard Road Edge has allowed Maximum Speed Restriction
+Element:347: Standard Road Edge with specified Net 2 Class value must have a Verified Speed Restriction
+Element:348: Street Name has allowed Character
+Element:349: Street Name has not allowed First Character
+Element:350: Street Names
+Element:351: String attribute of all Features
+Element:352: String has invalid Name Part
+Element:353: Unit of Measurement of Country
+Element:354: 
+Element:355: 
+Element:356: 
+Processing package: Enumerations
+Element:357: Action Type Geopolitical Info
+Element:358: Address Component Type
+Element:359: Address Point Type
+Element:360: Administrative Area Order
+Element:361: Administrative Boundary Display Category
+Element:362: Administrative Boundary Type
+Element:363: Airport Code Type
+Element:364: Area Type
+Element:365: Attribute Modifying Geopolitical Info
+Element:366: Attribute Type Administrative Boundaries
+Element:367: Attribute Type Geopolitical Info
+Element:368: Attribute Value Administrative Boundaries
+Element:369: Center of Settlement Administrative Class
+Element:370: Center of Settlement Display Class
+Element:371: Color
+Element:372: Country Status
+Element:373: Driving Side
+Element:374: Feature Type Geopolitical Info
+Element:375: Feature Type Unallowed Language
+Element:376: Feature with Index Order 1
+Element:377: Feature with Index Order 2
+Element:378: Feature with Index Order 7
+Element:379: Feature with Index Order 8
+Element:380: Feature with Index Order 9
+Element:381: Feature with Postal Code Information
+Element:382: Feature_Attribute used for Address Uniqueness
+Element:383: Feature_Attribute_Value
+Element:384: Generic Attribute
+Element:385: Generic Object
+Element:386: ISO Language Code
+Element:387: Index Order
+Element:388: Language Code
+Element:389: Mapping Route Directional
+Element:390: ModelName
+Element:391: NDS Road Type
+Element:392: Name Component Country Dependency
+Element:393: Name Type
+Element:394: Notation Alphabet Code
+Element:395: Order_1_Feature_Attribute_Value
+Element:396: Payment Method for Service
+Element:397: Qualifier
+Element:398: Route Number Colors
+Element:399: SCW_DCW
+Element:400: Service Type
+Element:401: Speed Restriction
+Element:402: Speed Restriction Preset
+Element:403: Speed Restriction Type
+Element:404: Theme
+Element:405: Trailer Convertor Type
+Element:406: Unit of Measurement for Height, Length, or Width
+Element:407: Unit of Measurement for Speed Restrictions
+Element:408: Unit of Measurement for Vehicle Weight
+Element:409: Unit of Measurement for Weight
+Element:410: Unit of Volume
+Element:411: Vehicle Type
+Element:412: Vehicle Type for Vehicle Category
+Element:413: Name Component Type
+Element:414: FRC
+Element:415: Feature used for Address Uniqueness
+Element:416: Inheritance Handling
+Element:417: ISO Script Code
+Element:418: Map Reference
+Element:419: Geopolitical Country Attributes
+Processing package: Exclusives
+Processing package: Externals
+Element:420: Boolean
+Element:421: Float
+Element:422: Integer
+Element:423: String
+Sequencing Interaction Diagrams
+Formatting output XML...please wait
+XMI Document Export Complete!

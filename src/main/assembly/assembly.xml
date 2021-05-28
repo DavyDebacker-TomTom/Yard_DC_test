@@ -1,0 +1,17 @@
+<assembly>
+  <id>xmi</id>
+  <formats>
+    <format>jar</format>
+  </formats>
+  <includeBaseDirectory>true</includeBaseDirectory>
+	<baseDirectory></baseDirectory>
+	<fileSets>
+		<fileSet>
+         <directory>src/main/EA</directory>
+         <outputDirectory>/</outputDirectory>
+         <includes>
+            <include>${specs.name}-FULL.xmi</include>
+         </includes>
+      </fileSet>
+	</fileSets>
+</assembly>
